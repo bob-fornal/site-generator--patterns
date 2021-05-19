@@ -1,0 +1,17 @@
+{
+  "name": "site-generator--grunt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "grunt"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "grunt": "^1.4.0"
+  },
+  "devDependencies": {
+    "grunt-contrib-copy": "^1.0.0"
+  }
+}
